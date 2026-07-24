@@ -10,9 +10,7 @@
   <a href="https://instagram.com/kunaltiwari250"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunaltiwari213&repo=vibe-chat-messenger-&theme=tokyonight" alt="Vibe Chat Messenger" />
-</p>
+
 
 ---
 
@@ -107,18 +105,15 @@ const kunal = {
 ### 📊 System Status Dashboard
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kunal-tiwari-839a66349&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-tiwari-839a66349&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kunaltiwari213&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunaltiwari213&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-tiwari-839a66349&theme=tokyonight" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kunaltiwari213&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-trophies.vercel.app/?username=kunal-tiwari-839a66349&theme=tokyonight&margin-w=10&margin-h=10" alt="Trophies" />
-</p>
-
+<
 ---
 
 ### ⚡ Quick Bytes & Trivial Data
