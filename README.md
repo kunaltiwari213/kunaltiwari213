@@ -1,4 +1,4 @@
-```markdown
+
 # <p align="center">⚡ KUNAL TIWARI ⚡</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F2FE&width=450&center=true&vCenter=true&lines=FULL+STACK+DEVELOPER;MERN+STACK+EXPERT;AI+INTEGRATION+GEEK;SYSTEMS+ARCHITECT" alt="Typing Animation" />
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunal-tiwari-839a66349&repo=Vibe-Chat&theme=tokyonight" alt="Pinned Repo Vibe Chat" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunaltiwari213&repo=vibe-chat-messenger-&theme=tokyonight" alt="Vibe Chat Messenger" />
 </p>
 
 ---
@@ -133,4 +133,4 @@ const kunal = {
 <p align="center">
   <img src="https://komarev.com/normal-badge.png?id=kunal-tiwari-839a66349&color=00F2FE&style=flat-square&label=PULSE+VISITS" alt="Visitor Counter" />
 </p>
-```
+
