@@ -125,7 +125,4 @@ const kunal = {
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/normal-badge.png?id=kunal-tiwari-839a66349&color=00F2FE&style=flat-square&label=PULSE+VISITS" alt="Visitor Counter" />
-</p>
 
